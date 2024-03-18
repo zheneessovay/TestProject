@@ -11,5 +11,7 @@ class Tester{
     
     let name: String = ""
     let surname: String = ""
+    let testingPhase: Int = 0
     
+    let age: Int = 10
 }
