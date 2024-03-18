@@ -13,6 +13,7 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()
 
         print("login page")
+        print("login page2")
     }
 
 }
