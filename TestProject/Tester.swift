@@ -10,5 +10,6 @@ import Foundation
 class Tester{
     
     let name: String = ""
+    let surname: String = ""
     
 }
